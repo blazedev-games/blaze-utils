@@ -1,0 +1,15 @@
+{
+  "name": "games.blazedev.unity-utils",
+  "version": "0.0.1",
+  "displayName": "Blaze Utils",
+  "description": "Useful Unity utilities made by Blaze.",
+  "author": {
+    "name": "Błażej Hanzel (blazeDev)",
+    "email": "contact@blazedev.games",
+    "url": "https://blazedev.games"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "dependencies": {}
+}
